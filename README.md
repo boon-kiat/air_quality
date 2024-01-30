@@ -24,6 +24,11 @@ The main objective of this project is to perform data sampling and data explorat
 - Contains a comprehensive set of features such as meteorological, weather data, pollutants’ concentrations, and Air Quality Index (AQI) from various geographical locations around the world.
 - The dataset after preprocessing comprises 27 features with a total of 17,149 entries, spanning from 28/08/2023 to 29/11/2023.
 
+### Tools:
+- Talend Data Preparation and Data Integration
+- SAS Enterprise Miner
+- KNIME
+
 ### Methodology:  
 _Basic Data Cleaning using Talend Data Preparation:_ 
 - Drop duplicated columns with different units of measurement.  
